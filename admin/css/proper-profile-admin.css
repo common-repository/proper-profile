@@ -1,0 +1,94 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.proper-profile-button-twitter {
+ color: #55acee;
+}
+
+.proper-profile-button-facebook {
+ color: #3b5998;
+}
+
+.proper-profile-button-google {
+ color: #dd4b39;
+}
+
+.proper-profile-button-linkedin {
+ color: #007bb5;
+}
+
+.proper-profile-button-pinterest {
+ color: #cb2027;
+}
+
+.proper-profile-button-github {
+ color: #000000;
+}
+
+.proper-profile-button-foursquare {
+ color: #0072b1;
+}
+
+.proper-profile-button-meetup {
+  color: #e51937;
+}
+
+.proper-profile-button-reddit {
+  color: #CEE3f8;
+}
+
+.proper-profile-button-tumblr {
+  color: #35465D;
+}
+
+.proper-profile-button-flickr {
+  color: #F40083;
+}
+
+.proper-profile-button-youtube {
+  color: #FF0000;
+}
+
+.proper-profile-profile-pic img {
+  height: 48px;
+}
+
+.proper-profile-full-name {
+  font-weight: 500;
+}
+
+.proper-profile-full-name, .proper-profile-location, .proper-profile-job {
+  margin: 4px 0px 4px 0px;
+}
+
+.proper-profile-icons {
+  margin: 6px 0px 4px 0px;
+}
+
+.proper-profile-icon {
+  padding-right: 1px;
+}
+
+.proper-profile-spacer{
+  padding-top: 10px;
+}
+.proper-profile-widget-in-list {
+
+}
+.proper-profile-widget-single {
+  position: relative;
+  top: 10px;
+  margin-bottom: 10px;
+}
+
+.proper-profile-badge {
+  height: 1em;
+  width: auto;
+  vertical-align: middle;
+}
+
+.proper-profile-tooltip {
+  margin-left: 4px;
+}
